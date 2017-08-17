@@ -1,0 +1,11 @@
+.container {
+  padding: 0;
+  border: 1px solid #ccc;
+}
+#formOne , #result{
+  margin: 1rem 5rem;
+  text-align: center;
+}
+.hide {
+  display:none;
+}
